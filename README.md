@@ -24,13 +24,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project4/blob/435c1c4f7b3f6d3ae9f8bbd1d50f3cc646c19121/photo_scavenger_%20hunt.gif' width='' alt='Video Walkthrough' />
 
 GIF created with ezgif (https://ezgif.com)  
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenged I faced while building the app were working with MapKit.
 
 ## License
 
